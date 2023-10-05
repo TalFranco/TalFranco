@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tal Franco</h1>
 <h3 align="center">A passionate developer from Israel</h3>
 
+- 📚 B.Sc. Industrial engineering graduate specializing in information systems
 - 📱 My most recent project in React Native ['Mitlabshut' app](https://github.com/TalFranco/Final-Project-Client)
 
 - 💬 Ask me about **React, React Native, C#**
