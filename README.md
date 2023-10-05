@@ -4,8 +4,6 @@
 
 - 📱 My most recent project in React Native ['Mitlabshut' app](https://github.com/TalFranco/Final-Project-Client)
 
-- 💬 Ask me about **React, React Native, C#**
-
 - 📫 How to reach me **TalFranco4@gmail.com**
 
 - ⚡ Fun fact **workout is my therapy**
