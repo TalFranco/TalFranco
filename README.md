@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **TalFranco4@gmail.com**
 
-- ⚡ Fun fact **Workout is my therapy**
+- ⚡ Fun fact **workout is my therapy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
