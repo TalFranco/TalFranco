@@ -3,7 +3,7 @@
 
 - 📚 B.Sc. Industrial engineering graduate specializing in information systems
   
-- 📱 My most recent project in React Native ['Mitlabshut' app](https://github.com/TalFranco/Final-Project-Client)
+- 📱 My most recent project in React Native is ['Mitlabshut' app](https://github.com/TalFranco/Final-Project-Client)
 
 - 📫 How to reach me **TalFranco4@gmail.com**
 
